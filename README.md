@@ -3,7 +3,7 @@
 Engineering lead at Witmiester. I maintain **webshop** and **platform-sdk**.
 
 - 🔭 Working on checkout v2
-- 🌱 Learning Rust
+- 🌱 Learning Rust (s39 branch edit)
 - 📫 jim@plato.so
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jimsafe&show_icons=true)
